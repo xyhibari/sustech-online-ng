@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5589dd0c","path":"/life/dormitory/dorm-floor-plan.html","title":"\u5BBF\u820D\u5E73\u9762\u56FE","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660966100000,"contributors":[{"name":"sparkcyf","email":"sparktour@outlook.com","commits":2}]},"filePathRelative":"life/dormitory/dorm-floor-plan.md"}');export{t as data};
